@@ -1,5 +1,5 @@
 # LFMultiCheckButtons
-多选按钮组
+多选按钮组 <br/>
  ![image](https://github.com/LFOpen/LFMultiCheckButtons/raw/master/pics/pic1.png)
 
 # Cocoapods集成
